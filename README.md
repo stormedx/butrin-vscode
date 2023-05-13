@@ -9,5 +9,7 @@ Butrin is a VSCode theme that features a natural color scheme with a modern flai
   <img alt="butrin-demo" width="80%" src="https://github.com/stormedx/butrin-theme/blob/main/media/vscodetheme.png?raw=true">
 </p>
 
-## additional note
-Inconsistencies can happen! If you notice any issues, please report it over to [issues](https://github.com/stormedx//issues)
+## Additional notes
+Inconsistencies can happen! If you notice any issues, please report it over to [issues](https://github.com/stormedx/butrin-theme/issues)
+
+If you like this theme, consider checking out my terminal color scheme for it [here!](https://github.com/stormedx/butrin-terminal/)
