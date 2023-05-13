@@ -3,11 +3,25 @@
   "displayName": "Butrin Theme",
   "description": "Butrin is a VSCode theme that features a natural color scheme with a modern flair. It supports syntax highlighting for various programming languages, including Java, Python & HTML, Butrin is also great for extended use!",
   "version": "0.0.1",
+  "publisher": "stormedx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormedx/butrin-theme"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vscode theme",
+    "pretty theme",
+    "butrin",
+    "butrin-theme",
+    "dark mode"
   ],
   "contributes": {
     "themes": [
