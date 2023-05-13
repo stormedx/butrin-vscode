@@ -111,7 +111,7 @@
 	  // activityBar
 	  "activityBar.background": "#3b3030",
 	  "activityBar.border": "#e39d93",
-	  "activityBar.foreground": "#DCDCDC", 
+	  "activityBar.foreground": "#e39d93", 
 	  "activityBarBadge.background": "#e39d93",
   
 	  // titleBar
