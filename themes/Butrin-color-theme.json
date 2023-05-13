@@ -47,7 +47,7 @@
 	  "editor.wordHighlightBackground": "#855954",
 	  "editorCursor.foreground": "#dcdcdc",
 	  "editorGutter.background": "#3b3030",
-	  "editorIndentGuide.background": "#2f3033",
+	  "editorIndentGuide.background": "#ffb2b26b",
 	  "editorLineNumber.foreground": "#8f6d69",
 	  "editorLink.activeForeground": "#999",
 	  "editor.lineHighlightBackground": "#3b3030",
