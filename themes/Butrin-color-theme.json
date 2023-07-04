@@ -9,7 +9,7 @@
 
 	  // buttons
 
-	  "button.background": "#e39d93",
+	  "button.background": "#daa198",
 	  "button.hoverBackground": "#bc8c86",
 	  "input.background": "#736064",
 
@@ -85,13 +85,13 @@
 	  "sideBarTitle.foreground": "#999",
 	  "scrollbar.shadow": "#3b3030",
 	  "sideBarSectionHeader.border": "#e39d93",
-
+	  
 	  // statusBar
-	  "statusBar.background": "#e39d93",
+	  "statusBar.background": "#daa198",
 	  "statusBar.border": "#e39d93",
 	  "statusBar.foreground": "#dcdcdc",
-	  "statusBar.debuggingBackground": "#dcdcdc",
-	  "statusBar.debuggingForeground": "#3b3030",
+	  "statusBar.debuggingBackground": "#ff8776",
+	  "statusBar.debuggingForeground": "#dcdcdc",
 	  "statusBar.noFolderBackground": "#906e6a",
 	  "statusBar.noFolderForeground": "#dcdcdc",
   
@@ -111,7 +111,8 @@
 	  // activityBar
 	  "activityBar.background": "#3b3030",
 	  "activityBar.border": "#e39d93",
-	  "activityBar.foreground": "#e39d93", 
+	  "activityBar.foreground": "#daa198", 
+	  "activityBar.inactiveForeground": "#7e5c58",
 	  "activityBarBadge.background": "#e39d93",
   
 	  // titleBar
