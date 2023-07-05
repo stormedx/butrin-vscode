@@ -3,7 +3,7 @@
   <img alt="icon" width="20%" src="https://raw.githubusercontent.com/stormedx/butrin-theme/main/media/butrin_vscode.png">
 </p>
 
-Butrin is a VSCode theme that features a natural color scheme with a modern flair. It supports syntax highlighting for various programming languages, including Java, Python & HTML; Also great for extended use!
+[Butrin](https://marketplace.visualstudio.com/items?itemName=stormedx.butrin-theme) is a VSCode theme that features a natural color scheme with a modern flair. It supports syntax highlighting for various programming languages, including Java, Python & HTML; Also great for extended use!
 
 <p align="center">
   <img alt="butrin-demo" width="80%" src="https://github.com/stormedx/butrin-theme/blob/main/media/vscodetheme.png?raw=true">
